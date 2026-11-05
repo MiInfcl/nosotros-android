@@ -15,9 +15,9 @@ La app busca sola las versiones nuevas en este repositorio (Ajustes → Actualiz
 
 ### Numeración de las versiones
 
-**Cambio de numeración:** desde ahora cada versión se etiqueta con la versión de la app (`v1.5`, `v1.6`…), en lugar de `v1`, `v2`, `v3`… Lo ya publicado no se cambió: `v2` es la versión 1.1, `v3` la 1.2, `v4` la 1.3 y `v5` la 1.4.
+Cada versión es un release con la etiqueta `vN`, donde N es el número de versión de la app (el `versionCode` de Android): `v2` es la versión 1.1, `v3` la 1.2, `v4` la 1.3, `v5` la 1.4 y la siguiente será `v6` (1.5).
 
-Las versiones 1.1 a 1.4 de la app no reconocen etiquetas con punto (como `v1.5`): quien las tenga instaladas debe instalar la 1.5 una vez a mano, descargando el APK de arriba. Desde la 1.5 las actualizaciones vuelven a ser automáticas.
+**Cambio de numeración:** brevemente se anunció que las etiquetas pasarían a ser la versión de la app (`v1.5`); se descartó y se mantiene `vN`, como hasta ahora. Las versiones 1.1 a 1.4 seguirán actualizándose solas.
 
 ## Versión web
 
